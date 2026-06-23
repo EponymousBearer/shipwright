@@ -1,0 +1,21 @@
+{
+  "name": "shipwright",
+  "version": "0.1.0",
+  "description": "Production-grade engineering standards for Next.js (App Router), React, and TypeScript. Makes Claude write and review code that survives real users — not just demos.",
+  "author": {
+    "name": "Muhammad Adnan",
+    "url": "https://github.com/EponymousBearer"
+  },
+  "homepage": "https://github.com/EponymousBearer/shipwright",
+  "repository": "https://github.com/EponymousBearer/shipwright",
+  "license": "MIT",
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "code-review",
+    "production",
+    "claude-skill",
+    "app-router"
+  ]
+}

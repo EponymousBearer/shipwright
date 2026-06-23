@@ -1,0 +1,19 @@
+{
+  "name": "shipwright",
+  "owner": {
+    "name": "Muhammad Adnan",
+    "url": "https://github.com/EponymousBearer"
+  },
+  "description": "Claude skills that make your AI ship production-grade code, not demos. Starting with battle-tested Next.js, React, and TypeScript standards.",
+  "plugins": [
+    {
+      "name": "shipwright",
+      "source": "./plugins/shipwright",
+      "description": "Production-grade Next.js (App Router) + React + TypeScript engineering standards. Catches the mistakes AI coding agents make: leaked secrets, missing error/loading states, unvalidated input, caching footguns, and 'use client' sprawl.",
+      "version": "0.1.0",
+      "author": { "name": "Muhammad Adnan" },
+      "category": "development",
+      "tags": ["nextjs", "react", "typescript", "code-review", "production", "app-router"]
+    }
+  ]
+}
